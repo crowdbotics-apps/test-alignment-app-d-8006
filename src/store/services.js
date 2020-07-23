@@ -1,6 +1,6 @@
 import axios from "axios"
 const testAlignmentappAPI = axios.create({
-  baseURL: "https://test-alignment-app-d-8006.herokuapp.com/",
+  baseURL: "https://test-alignment-app-d-8006.botics.co/",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 function api_v1_customtext_list() {
