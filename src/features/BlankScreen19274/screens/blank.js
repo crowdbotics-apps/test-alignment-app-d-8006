@@ -74,7 +74,7 @@ export class _Blank extends React.Component {
           paddingTop: 5,
           paddingBottom: 5,
           overflow: "visible",
-          textAlign: "center",
+          textAlign: "right",
           verticalAlign: "baseline",
           borderColor: "#000000",
           borderStyle: "solid",
